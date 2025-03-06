@@ -27,3 +27,7 @@ def lagoon():
 
 def staypiggy():
     print("You head down to the Lagoon with Piggy acompannying you. you and Piggy find a large white conch")
+    staypiggy = int(input("Enter Pickup or LeaveIt")
+    if staypiggy == ("Pickup"):
+        pickup()
+    if sta
